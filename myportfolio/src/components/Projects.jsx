@@ -34,6 +34,48 @@ export default function Projects() {
       desc: "Visualizing real-time weather data with dynamic charts and geolocation support.",
       tech: ["JavaScript", "API"],
       img: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      id: 4,
+      title: "Weather Dashboard",
+      desc: "Visualizing real-time weather data with dynamic charts and geolocation support.",
+      tech: ["JavaScript", "API"],
+      img: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      id: 5,
+      title: "Weather Dashboard",
+      desc: "Visualizing real-time weather data with dynamic charts and geolocation support.",
+      tech: ["JavaScript", "API"],
+      img: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      id: 6,
+      title: "Weather Dashboard",
+      desc: "Visualizing real-time weather data with dynamic charts and geolocation support.",
+      tech: ["JavaScript", "API"],
+      img: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      id: 7,
+      title: "Weather Dashboard",
+      desc: "Visualizing real-time weather data with dynamic charts and geolocation support.",
+      tech: ["JavaScript", "API"],
+      img: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      id: 8,
+      title: "Weather Dashboard",
+      desc: "Visualizing real-time weather data with dynamic charts and geolocation support.",
+      tech: ["JavaScript", "API"],
+      img: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      id: 9,
+      title: "Weather Dashboard",
+      desc: "Visualizing real-time weather data with dynamic charts and geolocation support.",
+      tech: ["JavaScript", "API"],
+      img: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?auto=format&fit=crop&q=80&w=600"
     }
   ];
   return (
